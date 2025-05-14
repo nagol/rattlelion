@@ -1,0 +1,40 @@
+---
+title: ""
+---
+
+:::{.hero}
+![](assets/rattle_lion_trail_running_logo.png){.hero-logo}
+
+# The Legend of the Rattle Lion
+
+Guardians of the trails, spirits of the wild
+:::
+
+:::{.section .bg-accent}
+
+## Discover the Rattle Lion Legend {.section-title .center}
+
+The Rattle Lion is a legendary creature of San Luis Obispo - part mountain lion, part rattlesnake - born on the sacred heights of Cerro San Luis and known for its epic journey across the region's trails and peaks.
+
+Dive into the full [Origin Story](origin-story.qmd) to learn about the mythical beast's birth and its legendary Great Run across the Nine Sisters, Irish Hills, Cuesta Ridge, and along the dramatic coastline from Montaña de Oro to Point Sal.
+
+:::
+
+## Modern Day Followers: The SLOCO Trail Runners {.section-title}
+
+:::{.section .bg-light}
+
+A thousand years may have passed since the Rattle Lion's legendary Great Run, yet its memory races on in the hearts of the **SLOCO Trail Running** club. They call themselves the **Rattle Lionees**, devout followers of the mighty beast's ethos of speed, strength, and respect for the wild.
+
+On crisp mornings and golden dusks, these runners gather at the foot of Cerro San Luis, much as pilgrims at a shrine. Before setting off, they sometimes invoke the Rattle Lion in jest and reverence – perhaps a playful **tail shake** or a mock roar to the skies – a ritual to channel the creature's prowess. Then the run begins, and it is no mere jog but a **sacred trial of endurance**.
+
+Every so often, the SLOCO runners undertake their own version of the Great Run, called the **"El Sloco Loco"** - a single-day gauntlet across multiple peaks and trails inspired by the Rattle Lion's feat. Those who complete this odyssey return exhausted but fulfilled, having paid homage to the legend that animates these trails.
+
+The saga of the Rattle Lion lives on in each of these ritual runs and communal stories. By pushing themselves to blistering speeds and conquering daunting climbs, the Rattle Lionees commune with the wild spirit of the land. The trails of San Luis Obispo are **their temple**, the Rattle Lion **their muse and guardian**.
+
+And so the mythological saga continues to this day. The **Rattle Lion is eternal**, not as flesh and blood, but as inspiration – a symbol of wild freedom and the joyful, sacred act of running like the wind through the chaparral.
+:::
+
+:::{.footer}
+<p class="text-center">© 2025 Rattle Lion Trail Running | The spirit of the trails lives on</p>
+:::

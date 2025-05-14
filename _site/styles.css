@@ -1,0 +1,124 @@
+/* Brand Colors */
+:root {
+  --bg-green: #2f8c74;     /* Background green */
+  --text-green: #0b4834;   /* Text green */
+  --lion-main: #fbc301;    /* Rattle lion coat (main color) */
+  --lion-stripe: #cf7b00;  /* Rattle lion snake striping */
+  --lion-tongue: #ce3a00;  /* Rattle lion tongue */
+  --bg-brown: #563d0b;     /* Background brown (and outline) */
+}
+
+/* General Styles */
+body {
+  font-family: 'Open Sans', sans-serif;
+  line-height: 1.6;
+  color: var(--text-green);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--bg-brown);
+  font-weight: 600;
+}
+
+a {
+  color: var(--bg-green);
+  transition: color 0.3s ease;
+}
+
+a:hover {
+  color: var(--lion-stripe);
+  text-decoration: none;
+}
+
+/* Hero Section */
+.hero {
+  background-color: var(--bg-green);
+  color: white;
+  padding: 3rem 0;
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.hero-logo {
+  max-width: 300px;
+  margin: 0 auto 2rem;
+  display: block;
+}
+
+.hero h1 {
+  color: var(--lion-main);
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+.hero p {
+  font-size: 1.2rem;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+/* Content Sections */
+.section {
+  padding: 3rem 0;
+  border-bottom: 1px solid #eee;
+}
+
+.section:last-child {
+  border-bottom: none;
+}
+
+.section-title {
+  color: var(--bg-green);
+  margin-bottom: 1.5rem;
+  border-bottom: 3px solid var(--lion-main);
+  display: inline-block;
+  padding-bottom: 0.5rem;
+}
+
+/* Highlight text */
+.highlight {
+  color: var(--lion-tongue);
+  font-weight: bold;
+}
+
+/* Background containers */
+.bg-light {
+  background-color: #f8f9fa;
+  padding: 2rem;
+  border-radius: 8px;
+}
+
+.bg-accent {
+  background-color: rgba(47, 140, 116, 0.1);
+  padding: 2rem;
+  border-radius: 8px;
+}
+
+/* Custom navbar styling */
+.navbar {
+  background-color: white;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.navbar-brand img {
+  max-height: 50px;
+}
+
+/* Footer */
+footer {
+  background-color: var(--bg-brown);
+  color: white;
+  padding: 2rem 0;
+  margin-top: 3rem;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .hero h1 {
+    font-size: 2rem;
+  }
+  
+  .section {
+    padding: 2rem 0;
+  }
+}

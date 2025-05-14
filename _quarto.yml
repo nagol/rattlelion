@@ -1,0 +1,21 @@
+project:
+  type: website
+
+website:
+  title: "Rattle Lion"
+  favicon: assets/rattle_lion_trail_running_logo.png
+  navbar:
+    logo: assets/rattle_lion_trail_running_logo.png
+    left:
+      - href: index.qmd
+        text: Home
+      - href: origin-story.qmd
+        text: Origin Story
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
